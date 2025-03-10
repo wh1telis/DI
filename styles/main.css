@@ -30,6 +30,10 @@ video {
     border: 2px solid pink;
     border-radius: 10px;
 }
+footer {
+    display: flex;
+    justify-content: end;
+}
 @media (max-width: 390px) {
     video {
         max-width: 340px;
